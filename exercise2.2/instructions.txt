@@ -1,5 +1,12 @@
-Complete steps 1-5 for Exercise 2.2 
 
+  ______                               _                  ___        ___  
+ |  ____|                             (_)                |__ \      |__ \ 
+ | |__    __  __   ___   _ __    ___   _   ___    ___       ) |        ) |
+ |  __|   \ \/ /  / _ \ | '__|  / __| | | / __|  / _ \     / /        / / 
+ | |____   >  <  |  __/ | |    | (__  | | \__ \ |  __/    / /_   _   / /_ 
+ |______| /_/\_\  \___| |_|     \___| |_| |___/  \___|   |____| (_) |____|
+                                                                          
+                                                                          
 Save and Submit Step 1 as version 0.5
 Save and Submit Step 2 as version 1.0
 Save and Submit Step 3 as version 1.5
